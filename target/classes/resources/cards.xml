@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+	<card id="1">
+		<name>Obelisk The Tormentor</name>
+		<summonCost>10</summonCost>
+		<attack>4000</attack>
+		<defense>4000</defense>
+		<value>5</value>
+	</card>
+	<card id="2">
+		<name>Exodia The Forbidden One</name>
+		<summonCost>3</summonCost>
+		<attack>1000</attack>
+		<defense>1000</defense>
+		<value>3</value>
+	</card>
+	<card id="3">
+		<name>Slifer The Sky Dragon</name>
+		<summonCost>10</summonCost>
+		<attack>10000</attack>
+		<defense>10000</defense>
+		<value>5</value>
+	</card>
+	<card id="4">
+		<name>Kuriboh</name>
+		<summonCost>1</summonCost>
+		<attack>300</attack>
+		<defense>200</defense>
+		<value>1</value>
+	</card>
+	<card id="5">
+		<name>Dark Magician</name>
+		<summonCost>5</summonCost>
+		<attack>4000</attack>
+		<defense>4000</defense>
+		<value>3</value>
+	</card>
+	<card id="6">
+		<name>Left Leg Of The Forbidden One</name>
+		<summonCost>3</summonCost>
+		<attack>200</attack>
+		<defense>300</defense>
+		<value>2</value>
+	</card>
+	<card id="7">
+		<name>Big Shield Gardna</name>
+		<summonCost>3</summonCost>
+		<attack>100</attack>
+		<defense>2600</defense>
+		<value>2</value>
+	</card>
+	<card id="8">
+		<name>Buster Blader</name>
+		<summonCost>3</summonCost>
+		<attack>2600</attack>
+		<defense>2300</defense>
+		<value>3</value>
+	</card>
+	<card id="9">
+		<name>Panther Warrior</name>
+		<summonCost>2</summonCost>
+		<attack>2000</attack>
+		<defense>1600</defense>
+		<value>2</value>
+	</card>
+	<card id="10">
+		<name>Valkyrion The Magna Warrior</name>
+		<summonCost>5</summonCost>
+		<attack>1500</attack>
+		<defense>3850</defense>
+		<value>4</value>
+	</card>
+	<card id="11">
+		<name>Left Arm Of The Forbidden One</name>
+		<summonCost>2</summonCost>
+		<attack>200</attack>
+		<defense>300</defense>
+		<value>2</value>
+	</card>
+	<card id="12">
+		<name>Tiger Axe</name>
+		<summonCost>2</summonCost>
+		<attack>1300</attack>
+		<defense>1100</defense>
+		<value>2</value>
+	</card>
+	<card id="13">
+		<name>Watapon</name>
+		<summonCost>1</summonCost>
+		<attack>200</attack>
+		<defense>300</defense>
+		<value>1</value>
+	</card>
+	<card id="14">
+		<name>Sangan</name>
+		<summonCost>2</summonCost>
+		<attack>1000</attack>
+		<defense>600</defense>
+		<value>2</value>
+	</card>
+	<card id="15">
+		<name>Right Arm Of The Forbidden One</name>
+		<summonCost>1</summonCost>
+		<attack>200</attack>
+		<defense>300</defense>
+		<value>2</value>
+	</card>
+	<card id="16">
+		<name>The Winged Dragon of Ra</name>
+		<summonCost>10</summonCost>
+		<attack>10000</attack>
+		<defense>10000</defense>
+		<value>5</value>
+	</card>
+	<card id="17">
+		<name>Axe Raider</name>
+		<summonCost>2</summonCost>
+		<attack>1700</attack>
+		<defense>1150</defense>
+		<value>2</value>
+	</card>
+	<card id="18">
+		<name>Right Leg Of The Forbidden One</name>
+		<summonCost>3</summonCost>
+		<attack>200</attack>
+		<defense>300</defense>
+		<value>2</value>
+	</card>
+	<card id="19">
+		<name>Blue Eyes White Dragon</name>
+		<summonCost>8</summonCost>
+		<attack>3000</attack>
+		<defense>3000</defense>
+		<value>4</value>
+	</card>
+	<card id="20">
+		<name>Black Luster Soldier</name>
+		<summonCost>6</summonCost>
+		<attack>3000</attack>
+		<defense>2500</defense>
+		<value>3</value>
+	</card>
+	<card id="21">
+		<name>Jinzo</name>
+		<summonCost>3</summonCost>
+		<attack>2400</attack>
+		<defense>1500</defense>
+		<value>2</value>
+	</card>
+	<card id="22">
+		<name>Flame Swordsman</name>
+		<summonCost>3</summonCost>
+		<attack>1800</attack>
+		<defense>1600</defense>
+		<value>3</value>
+	</card>
+	<card id="23">
+		<name>Red Eyes Black Dragon</name>
+		<summonCost>4</summonCost>
+		<attack>2400</attack>
+		<defense>2000</defense>
+		<value>3</value>
+	</card>
+	<card id="24">
+		<name>Time Wizard</name>
+		<summonCost>2</summonCost>
+		<attack>500</attack>
+		<defense>400</defense>
+		<value>2</value>
+	</card>
+	<card id="25">
+		<name>Summoned Skull</name>
+		<summonCost>4</summonCost>
+		<attack>2500</attack>
+		<defense>1200</defense>
+		<value>3</value>
+	</card>
+</cards>
